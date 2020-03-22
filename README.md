@@ -1,2 +1,3 @@
-# fm-next-songs-rec
-Factorization machines for next-songs recommendation
+# (Distributed) factorization machines for next-track music recommendation
+
+
